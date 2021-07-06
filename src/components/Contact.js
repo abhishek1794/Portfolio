@@ -17,7 +17,7 @@ export default class Contact extends React.Component {
 					<div>
 						<p className="cHead">Email</p>
 						<p className="cContent">
-							<a>kashishbakshi12@gmail.com</a>
+							<a>abhi.sy17@gmail.com</a>
 						</p>
 					</div>
 					<div>

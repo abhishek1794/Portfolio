@@ -97,7 +97,7 @@ export default class App extends React.Component {
         <div className="downlast">
           Baked with &nbsp;
           <span role="img" aria-label="heart">💕</span>
-          &nbsp; by Kashish
+          &nbsp; by Abhishek
         </div>
       </div>
     );

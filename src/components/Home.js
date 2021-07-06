@@ -23,7 +23,7 @@ export default class Home extends React.Component {
           <p>
             <Typer
               heading={"I"}
-              dataText={["Watch.", "  ", "Learn.", "Repeat."]}
+              dataText={["Learn", "  ", "Implement.", "Repeat."]}
             />
           </p>
         </div>

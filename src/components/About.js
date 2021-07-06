@@ -1,6 +1,6 @@
 import React from "react";
 import './About.css';
-import profile from "../assets/profile.jpg";
+import profile from "../assets/linkedin_dp.jpg";
 // import peep from "../assets/peep.png";
 import Fade from "react-reveal/Fade";
 import rec from "../assets/rec.32779635.jpg";
@@ -11,7 +11,7 @@ export default class About extends React.Component {
       <div className="about">
         <div className="container">
           <div>
-            <img className="image" src={profile} alt="linked_dp"></img>
+            <img className="image" src={profile} alt="linkedin_dp"></img>
             {/* <img className="image2" src={peep} alt="profile"></img> */}
           </div>
           {/* <Fade right cascade> */}
@@ -27,7 +27,7 @@ export default class About extends React.Component {
             </div>
             <Fade right>
               <p className="para">
-                Hi, I'm Kashish! I am a Techie, currently
+                Hi, I'm Abhishek! I am a Data Scientist, currently
                 "Scientist B" at {" "}
                 {/* <span style={{ color: "#31708E", fontWeight: "500" }}> */}
                 NIC.
